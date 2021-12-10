@@ -1,0 +1,31 @@
+body {
+    background-color: indigo;
+  }
+  
+  main {
+    font-family: roboto, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+      }
+  
+  button {
+    padding: 10px 27.5px;
+    font-size: 1rem;
+    border: 2px solid currentColor;
+    border-radius: 8px;
+    background-color: white;
+    cursor: pointer;
+    letter-spacing: 2px;
+  
+  
+  }
+  
+  button:hover {
+     background-color: yellow;
+    }
+  
+  #passlength {
+    max-width: 25px;
+    -webkit-appearance: none;
+  }
